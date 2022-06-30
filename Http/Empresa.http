@@ -1,0 +1,19 @@
+POST {{host}}/Empresa/BuscarEmpresaPorCNPJ HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Data": "54517628000864"
+}
+
+
+###
+
+
+POST {{host}}/Empresa/BuscarMatrizPorCNPJ HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Data": "54517628000864"
+}

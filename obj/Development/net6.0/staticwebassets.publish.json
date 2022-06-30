@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2dWxqbfF4bXP1Qq5UeC06P5e+etGP7qSGuH5VenQ2gA=",
+  "Source": "PosStoneNfce.API.Portal",
+  "BasePath": "_content/PosStoneNfce.API.Portal",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

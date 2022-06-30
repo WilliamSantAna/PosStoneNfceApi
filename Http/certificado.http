@@ -1,0 +1,135 @@
+POST {{host}}/Certificado/FindAll HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": [
+        "Certificado.id_certificado",
+        "Certificado.data_validade_inicio", 
+        "Certificado.certificado_email", 
+        "Certificado.id_cadastro_matriz",
+        "Certificado.id_gpecon",
+        "GrupoEconomico.desc_grupo_economico",
+        "Pfj.razao_social_nome_completo",
+        "Pfj.cnpj_cpf"
+    ],
+    "Filter": [
+        # ["Certificado.nr_serie", "like", "%84b89%"]
+    ],
+    "SortFiled": "Certificado.data_validade_inicio",
+    "SortOrder": "ascend",
+    "PageSize": 5,
+    "PageIndex": 0
+}
+
+###
+
+POST {{host}}/api/Certificado/FindOne HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": [
+        "Certificado.id_certificado",
+        "Certificado.data_validade_inicio", 
+        "Certificado.certificado_email", 
+        "Certificado.id_cadastro_matriz",
+        "Certificado.id_gpecon",
+        "GrupoEconomico.desc_grupo_economico",
+        "Pfj.razao_social_nome_completo",
+        "Pfj.cnpj_cpf"
+    ],
+    "Filter": [
+        ["Certificado.certificado_email", "=", "suporte.mid@linx.com.br"],
+        ["Certificado.data_validade_inicio", "<=", "12/09/2018 16:00:58"]
+    ]
+}
+
+
+###
+
+POST {{host}}/api/Certificado/FindAll HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filter": [
+        [
+            "Pfj.cnpj_cpf",
+            "like",
+            "%02337524001331%"
+        ]
+    ],
+    "pageSize": 30,
+    "pageIndex": 0,
+    "attributes": [
+        "Certificado.id_certificado",
+        "Certificado.data_validade_inicio",
+        "Certificado.data_validade_termino",
+        "Certificado.certificado_email",
+        "Certificado.id_cadastro_matriz",
+        "Certificado.id_gpecon",
+        "Certificado.nr_serie",
+        "GrupoEconomico.desc_grupo_economico",
+        "Pfj.razao_social_nome_completo",
+        "Pfj.cnpj_cpf"
+    ],
+    "sortField": "Certificado.data_validade_termino",
+    "sortOrder": "ascend"
+}
+
+###
+
+POST {{host}}/api/Certificado/GetById HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    
+    "Id": "abc76d47-75ee-4580-9656-0008a6822371",
+    "Attributes": [
+        "Certificado.id_certificado",
+        "Certificado.data_validade_inicio", 
+        "Certificado.certificado_email", 
+        "Certificado.id_cadastro_matriz",
+        "Certificado.id_gpecon",
+        "GrupoEconomico.desc_grupo_economico",
+        "Pfj.razao_social_nome_completo",
+        "Pfj.cnpj_cpf"
+    ]
+}
+
+###
+
+POST {{host}}/api/Certificado/Download HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Id": "abc76d47-75ee-4580-9656-0008a6822371",
+    "Senha": "FFLinx123"
+}
+
+###
+
+POST {{host}}/api/Certificado/DownloadByCNPJ HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "CNPJ": "27547510000130",
+    "Senha": "FFLinx123"
+}
+
+###
+
+POST {{host}}/Certificado/DownloadByCodigoSolicitacao HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "CodigoSolicitacao": "50DAC8CA5EBC427B",
+    "Senha": "FFLinx123"
+}
+
+

@@ -1,0 +1,12 @@
+POST {{host}}/Videoconferencia/ListarSolicitacoes HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "attributes": [],
+    "pageIndex": 1,
+    "pageSize": 30,
+    "sortField": "cnpj",
+    "sortOrder": "ascend",
+    "filter": []
+}

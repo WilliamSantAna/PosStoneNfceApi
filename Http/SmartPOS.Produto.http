@@ -1,0 +1,88 @@
+POST {{host}}/SmartPOS/Produto/Create HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Data": {
+        "Codigo": "456455",
+        "Nome": "Produto de Teste 0001",
+        "NomeCurto": "Produto de Teste 0001",
+        "NCM": "12345612",
+        "GTIN": "45678912341567",
+        "GTINTributavel": "45678912341567",
+        "ImagemUrl": "http://link.da.imagem/nome_thumbnail1.jpg",
+        "Tags": "teste,produto,bebida",
+        "GrupoId": "/1/",
+        "UnidadeMedidaId": "UND"
+    }
+}
+
+
+###
+
+
+POST {{host}}/SmartPOS/Produto/FindAll HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": [
+        "Id",
+        "codigo",
+        "nome",
+        "nomeCurto",
+        "ncm",
+        "gtin",
+        "gtinTributavel",
+        "imagemUrl",
+        "tags",
+        "unidadeMedidaId",
+        "criadoEm",
+        "atualizadoEm"
+    ],
+    "Filter": [],
+    "SortFiled": "CriadoEm",
+    "SortOrder": "ascend",
+    "PageSize": 5,
+    "PageIndex": 1
+}
+
+
+###
+
+POST {{host}}/SmartPOS/Produto/FindAll HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": ["produto.id"],
+    "PageSize": 5,
+    "PageIndex": 0
+}
+
+
+###
+
+POST {{host}}/SmartPOS/Produto/FindOne HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": ["produto.Id"],
+    "Filter": [["produto.Id", "=", "FF30105D-5274-4A56-B045-51BFDD8E4DE3"]]
+}
+
+
+###
+
+POST {{host}}/SmartPOS/Produto/Update HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Id": "FF30105D-5274-4A56-B045-51BFDD8E4DE3",
+    "Data": {
+        "Codigo": "839123",
+        "NomeCurto": "Teste de Update NomeCurto"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Data": {
+        "GrupoEconomicoId": 72047,
+        "Pessoa": {
+            "Tipo": 2,
+            "Codigo": "123",
+            "NomeFantasia": "Fabricio ME Update 10",
+            "CNPJCPF": "59424895000134",
+            "RazaoSocialNome": "Fabricio ME Ltda",
+            "InscricaoEstadual": "468613999465",
+            "CodigoRegimeTributario": 1,
+            "CNAE": "3250706",
+            "CNPJFaturamento": "59424895000134",
+            "IdSolucao": 5,
+            "Endereco": {
+                "TipoLogradouro": 2,
+                "Logradouro": "Rua Sem nome",
+                "Numero": "300",
+                "Bairro": "Centro",
+                "Cep": "97800000",
+                "CodigoIBGEMunicipio": 4310207,
+                "UF": "RS",
+                "Complemento": "apto 1001"
+            },
+            "Contato": {
+                "Email": "fabricio@email.com",
+                "CodigoArea": "55",
+                "Telefone": "33522222"
+            }
+        },
+        "Cadastro": {
+            "CNPJMatriz": "59424895000134",
+            "TipoFilial": 2
+        }
+    },
+    "Id": 1192178819
+}

@@ -1,0 +1,56 @@
+POST  http://localhost:44390/api/Certificado/Lista HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": {
+        "Certificado": {
+            "As": "cert",
+            "Attributes": [
+                "id_certificado",
+                "data_validade_inicio", 
+                "certificado_email", 
+                "id_cadastro_matriz",
+                "id_gpecon"
+            ]
+        },
+        "GrupoEconomico": {
+            "As": "gpecon",
+            "Attributes": [
+                "desc_grupo_economico"
+            ]
+        },
+        "Empresa": {
+            "As": "pfj",
+            "Attributes": [
+                "razao_social_nome_completo",
+                "cnpj_cpf",
+                "nome_fantasia_apelido"
+            ]
+        }
+    },
+    "Filter": [
+        ["cert.certificado_email", "=", "suporte.mid@linx.com.br"],
+        ["cert.data_validade_inicio", "<=", "12/09/2018 16:00:58"]
+    ],
+    "SortFiled": "cert.data_validade_inicio",
+    "SortOrder": "ascend",
+    "PageSize": 2,
+    "PageIndex": 0
+}
+
+###
+
+POST  http://localhost:44390/api/Videoconferencia/ListarSolicitacoes HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVc3VhcmlvSWQiOiIzYWFlMjlhZS0wMzQ5LTRmODYtOWFkYS1jNGRiMTg4ZWIxZWEiLCJEb21pbmlvSWQiOiIvMS8iLCJQZXJmaXMiOiIvMS8iLCJ1bmlxdWVfbmFtZSI6Ik1hdGhldXMiLCJuYmYiOjE2Mzc2NzUzMzQsImV4cCI6MTYzNzcyMjc5OSwiaWF0IjoxNjM3Njc1MzM0fQ.gXe883V0DZ4iN0p5bgEA3BLZ9dQAOFRvevvADBh2L_M
+
+{
+    "Attributes": ["data_validade_inicio", "certificado_email"],
+    "Filter": [
+        ["certificado_email", "=", "suporte.mid@linx.com.br"],
+        ["data_validade_inicio", "<=", "12/09/2018 16:00:58"]
+    ],
+    "PageSize": 2,
+    "PageIndex": 1   
+}

@@ -1,0 +1,72 @@
+{
+    "Data": {
+        "NumeroOP": 1, // * Fixar 1
+        "Source": 2, // * Fixar 2
+        "GrupoEconomico": {
+            "CodigoIndicadorMoeda": 1, // * Fixar 1
+            "Descricao": "Empresa ficticia de informática" // * Colocar fixo 'POS'
+        },
+        "Pessoa": {
+            "Tipo": 2, // * Tipo 2 = PJ. Fixar 2
+            "NomeFantasia": "Zebra Informática - Filial 1", // * Fantasia. O POS vai mandar
+            "CNPJCPF": "48593212000237", // * CNPJ. O POS vai mandar
+            "RazaoSocialNome": "Zebra Informática Ltda", // * Jogar aqui o Fantasia. O POS vai mandar
+            "InscricaoEstadual": "468613999465", // * Inscricao Estadual. O POS vai mandar
+            "CodigoRegimeTributario": 1, // * 1 = Simples Nacional, o POS vai mandar isso. O POS vai mandar
+            "CNAE": "3250706", // Nao é obrigatorio porque nao usa cnae em emissao de nota fiscal de produto
+            "CNPJFaturamento": "48593212000237", // cnpj da empresa. O POS vai mandar
+            "GrupoEconomicoId": 1, // Fixar 1
+            "IdSolucao": 5, // Fixar 5
+            "Endereco": {
+                "TipoLogradouro": 2, // Fixar 2.
+                "Logradouro": "Rua Bahia", // Logradouro com tipo.  O POS vai mandar
+                "Numero": "789", // Esse campo é obrigatorio. Se nao tiver nada coloca SN.  O POS vai mandar
+                "Bairro": "Vila Marcondes", // Bairro O POS vai mandar
+                "Cep": "98801130", // CEP O POS vai mandar
+                "CodigoIBGEMunicipio": 3541406, // Vou precisar buscar numa tabela IBGE de acordo com a cidade que o pos mandar
+                "UF": "SP" // * UF O POS vai mandar
+            },
+            "Contato": {
+                "Email": "asd@asd.com", // * Email O POS vai mandar
+                "CodigoArea": "55",
+                "Telefone": "33522222"
+            }
+        },
+        "Cadastro": {
+            "CNPJMatriz": "48593212000156", // CNPJ da empresa O POS vai mandar
+            "TipoFilial": 2 // Fixar 2
+        },
+        "Produtos": [
+            {
+                "Id": 2, // Codigo produto NAO TEMOS AINDA. Vai ser criado um so pro POS
+                "TipoAmbiente": 2, // 1 - HML, 2 - PROD.
+                "InicioUtilizacao": "2022-03-01T12:09:41.0000000", // Data hora do cadastro
+                "FinalUtilizacao": "2030-03-01T00:00:00.0000000" // +10 anos da data acima
+            },
+            {
+                "Id": 125, // Codigo do Pag Notas
+                "TipoAmbiente": 2, // 1 - HML, 2 - PROD.
+                "InicioUtilizacao": "2022-03-01T12:09:41.0000000", // Data hora do cadastro
+                "FinalUtilizacao": "2030-03-01T00:00:00.0000000" // +10 anos da data acima
+            },
+            
+        ],
+        "ResponsavelLegal": [
+            {
+                "Nome": "Fabricio Esmério", // Fantasia da empresa O POS vai mandar
+                "Email": "fabricio.esmerio@linx.com.br", // Email O POS vai mandar
+                "Telefone": "(55) 98107-0546" // Telefone. O POS vai mandar
+            }
+        ],
+        "Logo": { // Essa chave é opcional
+            "LogoBase64": "",
+            "LogoEmBranco": true
+        }
+    }
+}
+
+
+O metodo tem que retornar o id da empresa criada
+
+Endpoint de cadastro HML: https://api-portal-hml.fiscalflow.linx.com.br/api/Empresa 
+Endpoint de Update: api/Empresa/UpdateById 

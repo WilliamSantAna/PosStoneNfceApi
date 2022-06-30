@@ -1,0 +1,103 @@
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <style>
+        .body-app {
+            background-color: #e4e4e4;
+            margin: 0;
+            padding: 0;
+            position: relative;
+            flex-direction: column;
+            display: flex;
+            align-items: center;
+            align-content: center;
+            height: 800px;
+            color: white;
+            font-family: Helvetica, Arial, sans-serif
+        }
+
+        .body-app>div {
+            flex: 1;
+        }
+
+        .wrapper {
+            padding: 24px;
+        }
+
+        .tb {
+            width: 600px;
+        }
+
+        .tb-header>td {
+            background-color: #47195a;
+            font-size: 30px;
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+        }
+
+        .tb-body>td {
+            background-color: white;
+            font-size: 40px;
+            text-align: center;
+        }
+
+        .tb-footer>td {
+            background-color: #47195a;
+            text-align: center;
+            border-bottom-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+
+        .cw {
+            color: white;
+        }
+
+        .cd {
+            color: #777;
+        }
+    </style>
+    <div class="body-app" style="">
+        <div></div>
+        <div class="wrapper" style="margin: 0 auto;">
+            <table class="tb">
+                <tr class="tb-header">
+                    <td class="cw" style="padding: 20px;"> {{Title}} </td>
+                </tr>
+                <tr class="tb-body">
+                    <td class="cd" style="padding: 20px;">
+                        <div style="font-size: 20px;">
+                            {{Description}}
+                        </div>
+                        <br>
+                        <div>
+                            <div >
+                                <a style="
+                                font-size: 25px;
+                                padding: 12px;
+                                background-color: #ffb200;
+                                color: #333;
+                                text-decoration: none;
+                            " href="{{ButtonLink}}">{{ButtonLabel}}</a> 
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="tb-footer">
+                    <td> <img
+                            src="http://resources.clubedeparceiroslinx.com.br/images/frontend/logos/logo-linx-white.png"
+                            style="width: 100px; height: auto; margin: 82.95px 0px;"> </td>
+                </tr>
+            </table>
+        </div>
+        <div></div>
+    </div>
+</body>
+
+</html>

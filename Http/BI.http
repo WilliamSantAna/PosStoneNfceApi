@@ -1,0 +1,105 @@
+POST {{host}}/BI/Chart/NotasAutorizadas HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filters": {
+        "dataDe": "2019-01-01",
+        "dataAte": "2022-01-26"
+    }
+}
+
+###
+
+POST {{host}}/BI/Chart/NotasNaoAutorizadas HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filters": {
+        "dataDe": "2022-02-01",
+        "dataAte": "2022-02-28"
+    }
+}
+
+###
+
+POST {{host}}/BI/Chart/EmissaoOnlineVsContingencia HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filters": {
+        "dataDe": "2019-01-01",
+        "dataAte": "2022-01-26"
+    }
+}
+
+###
+
+POST {{host}}/BI/Chart/NotasRejeitadas HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filters": {
+        "dataDe": "2019-01-01",
+        "dataAte": "2022-01-26"
+    }
+}
+
+###
+
+POST {{host}}/BI/Chart/NotasCanceladas HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filters": {
+        "dataDe": "2019-01-01",
+        "dataAte": "2022-01-26"
+    }
+}
+
+###
+
+POST {{host}}/BI/Chart/NotasInutilizadas HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filters": {
+        "dataDe": "2019-01-01",
+        "dataAte": "2022-01-26"
+    }
+}
+
+###
+
+POST {{host}}/BI/Chart/NotasDenegadas HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "filters": {
+        "dataDe": "2019-01-01",
+        "dataAte": "2022-01-26"
+    }
+}
+
+###
+
+POST {{host}}/BI/Chart/EmpresasAtivasInativas HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{}
+
+###
+
+POST {{host}}/BI/Chart/VencimentoCertificados HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+
+

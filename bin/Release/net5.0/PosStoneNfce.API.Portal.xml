@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PosStoneNfce.API.Portal</name>
+    </assembly>
+    <members>
+        <member name="T:PosStoneNfce.API.Portal.App.Common.Utils.Criptografia.RijndaelSimple">
+            <summary>
+            This class uses a symmetric key algorithm (Rijndael/AES) to encrypt and
+            decrypt data. As long as encryption and decryption routines use the same
+            parameters to generate the keys, the keys are guaranteed to be the same.
+            The class uses static functions with duplicate code to make it easier to
+            demonstrate encryption and decryption logic. In a real-life application,
+            this may not be the most efficient way of handling encryption, so - as
+            soon as you feel comfortable with it - you may want to redesign this class.
+            </summary>
+        </member>
+        <member name="M:PosStoneNfce.API.Portal.App.Common.Utils.Criptografia.RijndaelSimple.Encrypt(System.String,System.String,System.String,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Encrypts specified plaintext using Rijndael symmetric key algorithm
+            and returns a base64-encoded result.
+            </summary>
+            <param name="plainText">
+            Plaintext value to be encrypted.
+            </param>
+            <param name="passPhrase">
+            Passphrase from which a pseudo-random password will be derived. The
+            derived password will be used to generate the encryption key.
+            Passphrase can be any string. In this example we assume that this
+            passphrase is an ASCII string.
+            </param>
+            <param name="saltValue">
+            Salt value used along with passphrase to generate password. Salt can
+            be any string. In this example we assume that salt is an ASCII string.
+            </param>
+            <param name="hashAlgorithm">
+            Hash algorithm used to generate password. Allowed values are: "MD5" and
+            "SHA1". SHA1 hashes are a bit slower, but more secure than MD5 hashes.
+            </param>
+            <param name="passwordIterations">
+            Number of iterations used to generate password. One or two iterations
+            should be enough.
+            </param>
+            <param name="initVector">
+            Initialization vector (or IV). This value is required to encrypt the
+            first block of plaintext data. For RijndaelManaged class IV must be
+            exactly 16 ASCII characters long.
+            </param>
+            <param name="keySize">
+            Size of encryption key in bits. Allowed values are: 128, 192, and 256.
+            Longer keys are more secure than shorter keys.
+            </param>
+            <returns>
+            Encrypted value formatted as a base64-encoded string.
+            </returns>
+        </member>
+        <member name="M:PosStoneNfce.API.Portal.App.Common.Utils.Criptografia.RijndaelSimple.Decrypt(System.String,System.String,System.String,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Decrypts specified ciphertext using Rijndael symmetric key algorithm.
+            </summary>
+            <param name="cipherText">
+            Base64-formatted ciphertext value.
+            </param>
+            <param name="passPhrase">
+            Passphrase from which a pseudo-random password will be derived. The
+            derived password will be used to generate the encryption key.
+            Passphrase can be any string. In this example we assume that this
+            passphrase is an ASCII string.
+            </param>
+            <param name="saltValue">
+            Salt value used along with passphrase to generate password. Salt can
+            be any string. In this example we assume that salt is an ASCII string.
+            </param>
+            <param name="hashAlgorithm">
+            Hash algorithm used to generate password. Allowed values are: "MD5" and
+            "SHA1". SHA1 hashes are a bit slower, but more secure than MD5 hashes.
+            </param>
+            <param name="passwordIterations">
+            Number of iterations used to generate password. One or two iterations
+            should be enough.
+            </param>
+            <param name="initVector">
+            Initialization vector (or IV). This value is required to encrypt the
+            first block of plaintext data. For RijndaelManaged class IV must be
+            exactly 16 ASCII characters long.
+            </param>
+            <param name="keySize">
+            Size of encryption key in bits. Allowed values are: 128, 192, and 256.
+            Longer keys are more secure than shorter keys.
+            </param>
+            <returns>
+            Decrypted string value.
+            </returns>
+            <remarks>
+            Most of the logic in this function is similar to the Encrypt
+            logic. In order for decryption to work, all parameters of this function
+            - except cipherText value - must match the corresponding parameters of
+            the Encrypt function which was called to generate the
+            ciphertext.
+            </remarks>
+        </member>
+        <member name="T:PosStoneNfce.API.Portal.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroAgendarVideoconferencia">
+            <summary>
+              Looks up a localized string similar to Inconsistência ao agendar a videoconferência..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroBuscarHorarios">
+            <summary>
+              Looks up a localized string similar to Inconsistência ao buscar os horários..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroBuscarPedido">
+            <summary>
+              Looks up a localized string similar to Inconsistência ao buscar o pedido..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroBuscarSolicitacoes">
+            <summary>
+              Looks up a localized string similar to Inconsistência ao buscar as solicitações..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroBuscarVoucher">
+            <summary>
+              Looks up a localized string similar to Inconsistência ao buscar o voucher..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroImportarDocumento">
+            <summary>
+              Looks up a localized string similar to Inconsistência ao importar o documento..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroNovaSolicitacao">
+            <summary>
+              Looks up a localized string similar to Inconsistência na nova solicitação..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErrorToken">
+            <summary>
+              Looks up a localized string similar to Inconsistência ao gerar o token..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.ErroUsuarioPermissoesEmpresa">
+            <summary>
+              Looks up a localized string similar to Não foi possível buscar as permissões de empresas do usuário..
+            </summary>
+        </member>
+        <member name="P:PosStoneNfce.API.Portal.Properties.Resources.IdInvalido">
+            <summary>
+              Looks up a localized string similar to Id inválido..
+            </summary>
+        </member>
+        <member name="M:PosStoneNfce.Api.Portal.App.Modules.FiscalFlow.Controller.EmpresaController.Save(System.String)">
+            <summary>
+            Insere ou Edita uma empresa (FINALIZADO)
+            </summary>
+            <remarks>
+            POST /api/Empresa/Save
+            {
+                "data": {
+                    "stone_code": 99999,
+                    "razao_social": "Everest Inteligencia de Mercado Ltda",
+                    "cnpj": "02.151.247/0001-85",
+                    "email": "contato@everestim.com.br",
+                    "telefone": "(31) 9 8501-3019",
+                    "endereco": "Rua Passos",
+                    "numero": "19",
+                    "bairro": "Canadá",
+                    "municipio": "Contagem",
+                    "cod_ibge_municipio": "1234568",
+                    "uf": "MG",
+                    "cep": "32015-030",
+                    "ie": null,
+                    "id_csc": 2,
+                    "cod_csc": "a0eadf22-e86b-4b23-a843-a6ecf1267930"
+                }
+            }        
+            </remarks>
+            <response code="200">{"error": false,"code": 200, "message": "Empresa salva com sucesso","data": "[]"}</response>
+            <response code="403">{"error": true,"code": 403, "message": "Erro ao executar metodo %metodo%. Error: %msg_error%", "data": []}</response>
+        </member>
+    </members>
+</doc>

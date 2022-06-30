@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PosStoneNfce.API.Portal
+build_property.ProjectDir = /home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/

@@ -1,0 +1,63 @@
+{
+    "Data": {
+        "NumeroOP": 1,
+        "Source": 2,
+        "GrupoEconomico": {
+            "CodigoIndicadorMoeda": 1,
+            "Descricao": "Empresa ficticia de informática"
+        },
+        "Pessoa": {
+            "Tipo": 2,
+            "NomeFantasia": "Zebra Informática - Filial 1",
+            "CNPJCPF": "48593212000237",
+            "RazaoSocialNome": "Zebra Informática Ltda",
+            "InscricaoEstadual": "468613999465",
+            "CodigoRegimeTributario": 1,
+            "CNAE": "3250706",
+            "CNPJFaturamento": "48593212000237",
+            "GrupoEconomicoId": 1,
+            "IdSolucao": 5,
+            "Endereco": {
+                "TipoLogradouro": 2,
+                "Logradouro": "Rua Bahia",
+                "Numero": "789",
+                "Bairro": "Vila Marcondes",
+                "Cep": "98801130",
+                "CodigoIBGEMunicipio": 3541406,
+                "UF": "SP"
+            },
+            "Contato": {
+                "Email": "asd@asd.com"
+            }
+        },
+        "Cadastro": {
+            "CNPJMatriz": "48593212000156",
+            "TipoFilial": 2
+        },
+        "Produtos": [
+            {
+                "Id": 91,
+                "TipoAmbiente": 2,
+                "InicioUtilizacao": "2022-03-01T12:09:41.0000000",
+                "FinalUtilizacao": "2030-03-01T00:00:00.0000000"
+            },
+            {
+                "Id": 90,
+                "TipoAmbiente": 2,
+                "InicioUtilizacao": "2022-03-01T12:09:41.0000000",
+                "FinalUtilizacao": "2030-03-01T00:00:00.0000000"
+            }
+        ],
+        "ResponsavelLegal": [
+            {
+                "Nome": "Fabricio Esmério",
+                "Email": "fabricio.esmerio@linx.com.br",
+                "Telefone": "(55) 98107-0546"
+            }
+        ],
+                "Logo": {
+                    "LogoBase64": "",
+                    "LogoEmBranco": true
+                }
+    }
+}

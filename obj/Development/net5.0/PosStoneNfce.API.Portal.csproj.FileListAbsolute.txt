@@ -1,0 +1,286 @@
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/PosStoneNfce.API.Portal
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/PosStoneNfce.API.Portal.runtimeconfig.dev.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/PosStoneNfce.API.Portal.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/PosStoneNfce.API.Portal.pdb
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/PosStoneNfce.API.Portal.xml
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Azure.Core.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Azure.Core.Amqp.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Azure.Messaging.ServiceBus.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Dapper.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Humanizer.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.ApplicationInsights.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.ApplicationInsights.AspNetCore.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.AI.DependencyCollector.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.AI.EventCounterCollector.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.AI.PerfCounterCollector.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.AI.WindowsServer.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.AI.ServerTelemetryChannel.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Net.Http.Formatting.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Web.Http.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Web.Http.WebHost.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.Azure.Amqp.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.Extensions.Logging.ApplicationInsights.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.OpenApi.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Microsoft.Web.Infrastructure.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Newtonsoft.Json.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/SqlKata.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/SqlKata.Execution.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/Swashbuckle.Core.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Configuration.ConfigurationManager.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Data.SqlClient.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Diagnostics.PerformanceCounter.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Memory.Data.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/System.Security.Cryptography.ProtectedData.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/WebActivatorEx.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/runtimes/win-arm64/native/sni.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/runtimes/win-x64/native/sni.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/runtimes/win-x86/native/sni.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/runtimes/unix/lib/netstandard2.0/System.Data.SqlClient.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/runtimes/win/lib/netstandard2.0/System.Data.SqlClient.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.csproj.AssemblyReference.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.Properties.Resources.resources
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.csproj.GenerateResource.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.GeneratedMSBuildEditorConfig.editorconfig
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.AssemblyInfoInputs.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.AssemblyInfo.cs
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.csproj.CoreCompileInputs.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.MvcApplicationPartsAssemblyInfo.cs
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.MvcApplicationPartsAssemblyInfo.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/scopedcss/bundle/PosStoneNfce.API.Portal.styles.css
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/staticwebassets/PosStoneNfce.API.Portal.StaticWebAssets.Manifest.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.RazorTargetAssemblyInfo.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.csproj.CopyComplete
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/refint/PosStoneNfce.API.Portal.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.xml
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.pdb
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/PosStoneNfce.API.Portal.genruntimeconfig.cache
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/obj/Development/net5.0/ref/PosStoneNfce.API.Portal.dll
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/web.config
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Debug.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Development.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Production.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/appsettings.Staging.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/2022/API Cadastro Empresa - Plataforma/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/Docs/Cadastro_Empresa_Update.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.deps.json
+/home/williamsantana/workspace/c#/PosStoneNfce.Api.Portal/bin/Development/net5.0/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/publish/PosStoneNfce.API.Portal.runtimeconfig.json

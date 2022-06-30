@@ -1,0 +1,88 @@
+POST {{host}}/SmartPOS/ProdutoEmpresa/Create HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Data": {
+        "NomeComercial": "Teste",
+        "Custo": 10,
+        "Codigo": "123123",
+        "CodigoFornecedor": "456456",
+        "Tags": "teste,teste2,teste3",
+        "Preco": 25.10,
+        "ProdutoId": "1FAF2FA4-22A5-4F5B-904F-06B33FFCBC9C",
+        "EmpresaCNPJ": "54517628000864",
+        "UnidadeMedidaId": "UND"
+    }
+}
+
+
+###
+
+
+POST {{host}}/SmartPOS/ProdutoEmpresa/FindAll HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": [
+        "produtoEmpresa.Id",
+        "produtoEmpresa.NomeComercial",
+        "produtoEmpresa.Preco",
+        "produtoEmpresa.Custo",
+        "produtoEmpresa.Codigo",
+        "produtoEmpresa.CodigoFornecedor",
+        "produtoEmpresa.Tags",
+        "produtoEmpresa.ImagemUrl",
+        "produtoEmpresa.ProdutoId",
+        "produtoEmpresa.EmpresaCNPJ",
+        "produtoEmpresa.UnidadeMedidaId",
+        "produtoEmpresa.CriadoEm",
+        "produtoEmpresa.AtualizadoEm"
+    ],
+    "Filter": [
+        ["produtoEmpresa.id", "=", "39ec316e-4b4d-462b-a45e-4f4a95345119"]
+    ],
+    "SortFiled": "CriadoEm",
+    "SortOrder": "ascend",
+    "PageSize": 5,
+    "PageIndex": 1
+}
+
+
+
+###
+
+
+POST {{host}}/SmartPOS/ProdutoEmpresa/FindOne HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Attributes": [
+        "produtoEmpresa.Id",
+        "produtoEmpresa.NomeComercial",
+        "produtoEmpresa.Preco",
+        "produtoEmpresa.Custo",
+        "produtoEmpresa.Codigo"
+    ],
+    "Filter": [
+        ["produtoEmpresa.Id", "=", "39ec316e-4b4d-462b-a45e-4f4a95345119"]
+    ]
+}
+
+
+
+####
+
+
+
+POST {{host}}/SmartPOS/ProdutoEmpresa/Delete HTTP/1.1
+Content-Type: application/json
+Authorization: {{token}}
+
+{
+    "Data": {
+        "Id": "8BC603F5-7A72-4653-9871-E47749A5F773"
+    }
+}
